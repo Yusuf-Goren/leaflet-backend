@@ -31,7 +31,7 @@ class Places(db.Model):
 
 with app.app_context():
     db.create_all()
-print(datetime.now(timezone.utc).astimezone())
+
 @app.route("/get-places")
 def get_places():
     try:
