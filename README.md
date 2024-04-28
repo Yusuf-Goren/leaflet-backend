@@ -1,6 +1,6 @@
 For Running backend.
 
-
+git clone https://github.com/Yusuf-Goren/leaflet-backend.git
 
 First Create a MySql database.
 
