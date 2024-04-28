@@ -1,4 +1,4 @@
-For Running backend.
+# Getting Started with Flask App
 
 git clone https://github.com/Yusuf-Goren/leaflet-backend.git
 
