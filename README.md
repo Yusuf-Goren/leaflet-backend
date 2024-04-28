@@ -4,7 +4,7 @@ git clone https://github.com/Yusuf-Goren/leaflet-backend.git
 
 ## For Running Backend
 
-First Create a MySql database.
+- First Create a MySql database.
 
 Second create a .env file like env.example but with your credentials.
 
